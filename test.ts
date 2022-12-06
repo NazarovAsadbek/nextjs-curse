@@ -86,4 +86,81 @@
 //
 // const myCanvas = document.getElementById('canvas') as HTMLCanvasElement;
 
+// let c: 'test' = 'test';
+//
+// type actionType = 'up' | 'down';
+//
+// function performAction(action: actionType | ComplexAction): -1 | 1 {
+//     switch (action) {
+//         case "down":
+//             return -1;
+//         case "up":
+//             return 1;
+//     }
+// }
+//
+// interface ComplexAction {
+//     s: number
+// }
+
+
+// enum Direction {
+//     Up = 1,
+//     Down,
+//     Left,
+//     Right
+// }
+//
+// enum Decision {
+//     Yes = 1,
+//     No = 'No'
+// }
+//
+// function calEnum() {
+//     return 2
+// }
+//
+// function runEnum(obj: { Up: number }) {
+//
+// }
+//
+// runEnum(Direction)
+
+// const a: [number, string, number] = [0, 'a', 1];
+//
+// a.push('123')
+//
+// console.log(a)
+
+// function logTime<T>(num: T): T {
+//     console.log(new Date())
+//     return num;
+// }
+//
+// logTime<number>(123)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
